@@ -4,3 +4,4 @@ build/
 obj/
 .idea/
 Folder.DotSettings.user
+.vs/
